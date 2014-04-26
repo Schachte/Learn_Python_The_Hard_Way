@@ -17,9 +17,9 @@ script_name, username, password = argv
 
 
 if username == "schachte" and password == "zieser1l12":
-    print 'Those credentials were correct for the program!'
+    print 'Those credentials were correct for the program!\nYou entered\n\tUsername: %s\n\tPassword: %s' %(username, password)
 else:
-    print 'Sorry, that input was incorrect!'
+    print 'Sorry, that input was incorrect!\nYou entered\n\tUsername: %s\n\tPassword: %s' %(username, password)
 
 
 
