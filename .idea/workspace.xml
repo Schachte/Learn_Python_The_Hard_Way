@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa83419-85ce-40af-ab42-e707b6b4eeb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Excercise_17/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Excercise_17/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2aa83419-85ce-40af-ab42-e707b6b4eeb7" name="Default" comment="" />
     <ignored path="Learn_Python_The_Hard_Way_Excercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,10 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Excercise18.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Excercise18.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Excercise_18/Excercise18.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="21" selection-start="491" selection-end="491" vertical-scroll-proportion="0.4854369" vertical-offset="0" max-vertical-offset="618">
+            <state line="14" column="26" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excercise19.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Excercise_19/Excercise19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="32" selection-start="1894" selection-end="1894" vertical-scroll-proportion="1.6747572" vertical-offset="0" max-vertical-offset="1380">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excercise02.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excercise02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -60,6 +76,7 @@
         <option value="$PROJECT_DIR$/Excercise_15/Excercise15.py" />
         <option value="$PROJECT_DIR$/Excercise_16/Excercise16.py" />
         <option value="$PROJECT_DIR$/Excercise_18/Excercise18.py" />
+        <option value="$PROJECT_DIR$/Excercise_19/Excercise19.py" />
       </list>
     </option>
   </component>
@@ -123,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Excercise_18" />
+              <option name="myItemId" value="Excercise_19" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -411,7 +428,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_18/Excercise18.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="21" selection-start="491" selection-end="491" vertical-scroll-proportion="0.4854369" vertical-offset="0" max-vertical-offset="618">
+        <state line="14" column="26" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_19/Excercise19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="32" selection-start="1894" selection-end="1894" vertical-scroll-proportion="1.6747572" vertical-offset="0" max-vertical-offset="1380">
           <folding />
         </state>
       </provider>
