@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa83419-85ce-40af-ab42-e707b6b4eeb7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment11.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment12.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment13.py" afterPath="" />
-    </list>
+    <list default="true" id="2aa83419-85ce-40af-ab42-e707b6b4eeb7" name="Default" comment="" />
     <ignored path="Learn_Python_The_Hard_Way_Excercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Excercise15.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Excercise15.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Excercise_15/Excercise15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="59" selection-start="1711" selection-end="1711" vertical-scroll-proportion="1.074074" vertical-offset="255" max-vertical-offset="1020">
+            <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excercise16.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Excercise_16/Excercise16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="58" selection-start="629" selection-end="629" vertical-scroll-proportion="0.7777778" vertical-offset="0" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -61,6 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/Excercise15.py" />
         <option value="$PROJECT_DIR$/Excercise_15/Excercise15.py" />
+        <option value="$PROJECT_DIR$/Excercise_16/Excercise16.py" />
       </list>
     </option>
   </component>
@@ -76,7 +81,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -110,6 +115,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Excercise_16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -385,7 +404,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_15/Excercise15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="59" selection-start="1711" selection-end="1711" vertical-scroll-proportion="1.074074" vertical-offset="255" max-vertical-offset="1020">
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_16/Excercise16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="58" selection-start="629" selection-end="629" vertical-scroll-proportion="0.7777778" vertical-offset="0" max-vertical-offset="825">
           <folding />
         </state>
       </provider>
