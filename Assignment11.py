@@ -26,3 +26,16 @@ user_data = """
 \tYou reside in: %s""" % (str(name), float(age), str(residence))
 
 print user_data
+
+
+name = raw_input("Hello, what is your name?")
+age  = raw_input("Ok, %s what is your age?" % name.capitalize())
+age  = int(age)
+residence = raw_input("Ok, so your name is %s and you are %d years old. Where do you live?" % (name.capitalize(), age))
+
+user_data = """
+\tYour name is: %s\n
+\tYour age is: %d years old\n
+\tYou reside in: %s""" % (str(name), float(age), str(residence))
+
+print user_data
