@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Excercise20.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Excercise_20/Excercise20.py">
+      <file leaf-file-name="Excercise21.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Excercise_21/Excercise21.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="1.3106796" vertical-offset="0" max-vertical-offset="1005">
+            <state line="43" column="34" selection-start="1116" selection-end="1116" vertical-scroll-proportion="1.0436894" vertical-offset="0" max-vertical-offset="750">
               <folding />
             </state>
           </provider>
@@ -52,6 +52,7 @@
         <option value="$PROJECT_DIR$/Excercise_19/Excercise19.py" />
         <option value="$PROJECT_DIR$/Excercise_19/Excercise20.py" />
         <option value="$PROJECT_DIR$/Excercise_20/Excercise20.py" />
+        <option value="$PROJECT_DIR$/Excercise_21/Excercise21.py" />
       </list>
     </option>
   </component>
@@ -103,6 +104,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Excercise_21" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -444,7 +459,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_20/Excercise20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="1.3106796" vertical-offset="0" max-vertical-offset="1005">
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_21/Excercise21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="34" selection-start="1116" selection-end="1116" vertical-scroll-proportion="1.0436894" vertical-offset="0" max-vertical-offset="750">
           <folding />
         </state>
       </provider>
