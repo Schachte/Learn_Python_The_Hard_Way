@@ -16,7 +16,7 @@ from sys import argv
 script_name, username, password = argv
 
 
-if username == "schachte" and password == "zieser1l12":
+if username == "schachte" and password == "pass":
     print 'Those credentials were correct for the program!\nYou entered\n\tUsername: %s\n\tPassword: %s' %(username, password)
 else:
     print 'Sorry, that input was incorrect!\nYou entered\n\tUsername: %s\n\tPassword: %s' %(username, password)
