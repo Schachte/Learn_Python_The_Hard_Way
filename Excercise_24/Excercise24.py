@@ -64,7 +64,7 @@ print 'I am going to write the following information to the file:\n'
 print information
 
 #Open file in write mode
-file_opener = open(filename, "w")
+file_opener = open(filename, "a+")
 
 #Write the formatted statement into txt file
 file_opener.write(information)
@@ -106,6 +106,19 @@ new_file_opener = open(copy_to_file, "w")
 #Write the string data into the file and output success message
 new_file_opener.write(file_data)
 print 'Data written to "%s" successfully!' %(copy_to_file)
+
+print 'Now, I will write a header to the original file to display copyright.'
+
+append_copy = open(filename, "r")
+original_text = append_copy.read()
+append_copy.close()
+
+append_copy = open(filename, "w")
+append_copy.write("Copyright -- Ryan Schachte -- 2014\n")
+append_copy.write(original_text)
+append_copy.close()
+
+print 'File closed and data written!'
 
 
 
