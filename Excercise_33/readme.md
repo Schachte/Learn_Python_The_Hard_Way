@@ -1,0 +1,1 @@
+Basic while loop intution. Loop stops based on boolean value
