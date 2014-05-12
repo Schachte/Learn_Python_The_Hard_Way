@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aa83419-85ce-40af-ab42-e707b6b4eeb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Excercise_33/readme.md" afterPath="$PROJECT_DIR$/Excercise_33/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Excercise_29/Excercise_29.py" afterPath="$PROJECT_DIR$/Excercise_29/Excercise_29.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Excercise_30/Excercise_30.py" afterPath="$PROJECT_DIR$/Excercise_30/Excercise_30.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Excercise_32/Excercise_32.py" afterPath="$PROJECT_DIR$/Excercise_32/Excercise_32.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Excercise_33/Excercise_33.py" afterPath="$PROJECT_DIR$/Excercise_33/Excercise_33.py" />
     </list>
     <ignored path="Learn_Python_The_Hard_Way_Excercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,37 +28,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Excercise_30.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Excercise_30/Excercise_30.py">
+      <file leaf-file-name="Excercise_34.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Excercise_34/Excercise_34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="5" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="300">
+            <state line="18" column="37" selection-start="585" selection-end="585" vertical-scroll-proportion="0.58441556" vertical-offset="0" max-vertical-offset="462">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Excercise_32.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Excercise_32/Excercise_32.py">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excercise_34/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="369" selection-end="369" vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="1080">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Excercise_33.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Excercise_33/Excercise_33.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="95" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Excercise_33/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+            <state line="2" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -88,11 +72,13 @@
         <option value="$PROJECT_DIR$/Excercise_24/Excercise24.py" />
         <option value="$PROJECT_DIR$/Excercise_26/Excercise26.py" />
         <option value="$PROJECT_DIR$/Excercise_27/Excercise_27.py" />
+        <option value="$PROJECT_DIR$/Excercise_33/readme.md" />
         <option value="$PROJECT_DIR$/Excercise_29/Excercise_29.py" />
         <option value="$PROJECT_DIR$/Excercise_30/Excercise_30.py" />
         <option value="$PROJECT_DIR$/Excercise_32/Excercise_32.py" />
         <option value="$PROJECT_DIR$/Excercise_33/Excercise_33.py" />
-        <option value="$PROJECT_DIR$/Excercise_33/readme.md" />
+        <option value="$PROJECT_DIR$/Excercise_34/Excercise_34.py" />
+        <option value="$PROJECT_DIR$/Excercise_34/README.md" />
       </list>
     </option>
   </component>
@@ -154,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Excercise_33" />
+              <option name="myItemId" value="Excercise_34" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -179,25 +165,7 @@
       <recent name="$PROJECT_DIR$/Excercise_20" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Excercise_33">
-    <configuration default="false" name="Excercise24" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercise_24" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Learn_Python_The_Hard_Way_Excercises" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise_24/Excercise24.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Excercise_34">
     <configuration default="false" name="Excercise26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,6 +233,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Learn_Python_The_Hard_Way_Excercises" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise_33/Excercise_33.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Excercise_34" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercise_34" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn_Python_The_Hard_Way_Excercises" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise_34/Excercise_34.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -411,19 +397,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Excercise10" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Excercise24" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Excercise26" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Excercise_29" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Excercise_32" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Excercise_33" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Excercise26" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Excercise_29" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Excercise_32" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Excercise_33" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Excercise_34" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Excercise_33" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Excercise_32" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Excercise_29" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Excercise26" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Excercise24" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Excercise_34" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Excercise_33" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Excercise_32" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Excercise_29" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Excercise26" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +447,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -514,7 +500,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_26/Excercise26.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="36" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1560" />
+        <state line="79" column="36" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1560">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise10.py">
@@ -540,11 +528,6 @@
     <entry file="file://$PROJECT_DIR$/Excercise_15/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="160" selection-end="160" vertical-scroll-proportion="0.074074075" vertical-offset="0" max-vertical-offset="405" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Excercise01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise02.py">
@@ -592,40 +575,65 @@
         <state line="0" column="0" selection-start="0" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1950" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Excercise_26/Excercise26.py">
+    <entry file="file://$PROJECT_DIR$/Excercise_33/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="30" selection-start="1998" selection-end="1998" vertical-scroll-proportion="0.0" vertical-offset="856" max-vertical-offset="1560" />
+        <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Excercise_29/Excercise_29.py">
+    <entry file="file://$PROJECT_DIR$/Excercise_26/Excercise26.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="30" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
+        <state line="78" column="30" selection-start="1998" selection-end="1998" vertical-scroll-proportion="2.5324676" vertical-offset="0" max-vertical-offset="1560">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_30/Excercise_30.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_32/Excercise_32.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="369" selection-end="369" vertical-scroll-proportion="-3.0" vertical-offset="0" max-vertical-offset="1080">
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="-0.27272728" vertical-offset="0" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_33/Excercise_33.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="95" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.032467533" vertical-offset="0" max-vertical-offset="462">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Excercise_33/readme.md">
+    <entry file="file://$PROJECT_DIR$/Excercise01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_29/Excercise_29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.032467533" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_34/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_34/Excercise_34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="37" selection-start="585" selection-end="585" vertical-scroll-proportion="0.58441556" vertical-offset="0" max-vertical-offset="462">
           <folding />
         </state>
       </provider>

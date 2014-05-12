@@ -1,6 +1,8 @@
-'''
-Storing data in lists using loops in Python
-'''
+################################
+######### Excercise 32##########
+# Learning Python The Hard Way#
+####### Ryan Schachte ##########
+################################
 
 #Objective:
 #Build a loop that adds data into a list and then have python print the data using string formatter

@@ -1,7 +1,8 @@
-'''
-Author: Ryan Schachte
-Description: Using while-loops and understanding their exit code to end the loop
-'''
+################################
+######### Excercise 33##########
+# Learning Python The Hard Way#
+####### Ryan Schachte ##########
+################################
 
 #Gain exit conditional input from the user
 

@@ -1,6 +1,8 @@
-'''
-Various Python Conditionals
-'''
+################################
+######### Excercise 30##########
+# Learning Python The Hard Way#
+####### Ryan Schachte ##########
+################################
 
 print 'Welcome to the Python Conditional Convention Center'
 

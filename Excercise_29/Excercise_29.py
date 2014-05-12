@@ -1,7 +1,8 @@
-'''
-Using What-If Statements in Python Programming
-'''
-
+################################
+######### Excercise 29##########
+# Learning Python The Hard Way#
+####### Ryan Schachte ##########
+################################
 #Implement a what if statement for python to execute certain code under certain condition
 
 
