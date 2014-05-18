@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa83419-85ce-40af-ab42-e707b6b4eeb7" name="Default" comment="" />
+    <list default="true" id="2aa83419-85ce-40af-ab42-e707b6b4eeb7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Learn_Python_The_Hard_Way_Excercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,19 +25,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Excercise_39.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Excercise_39/Excercise_39.py">
+      <file leaf-file-name="Excercise_40.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excercise_40/Excercise_40.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+            <state line="0" column="0" selection-start="0" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="975">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Excercise_39_Extension.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Excercise_39/Excercise_39_Extension.py">
+      <file leaf-file-name="CarInformation.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excercise_40/CarInformation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="63" selection-start="702" selection-end="702" vertical-scroll-proportion="0.92665035" vertical-offset="71" max-vertical-offset="540">
+            <state line="19" column="0" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excercise_41.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Excercise_41/Excercise_41.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="53" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.7877358" vertical-offset="611" max-vertical-offset="1035">
+              <folding>
+                <element signature="e#164#186#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excercise_41Ext.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excercise_41/Excercise_41Ext.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="17" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -81,6 +103,11 @@
         <option value="$PROJECT_DIR$/Excercise_38/Excercise_38.py" />
         <option value="$PROJECT_DIR$/Excercise_39/Excercise_39.py" />
         <option value="$PROJECT_DIR$/Excercise_39/Excercise_39_Extension.py" />
+        <option value="$PROJECT_DIR$/Excercise_40/functions.py" />
+        <option value="$PROJECT_DIR$/Excercise_40/CarInformation.py" />
+        <option value="$PROJECT_DIR$/Excercise_40/Excercise_40.py" />
+        <option value="$PROJECT_DIR$/Excercise_41/Excercise_41Ext.py" />
+        <option value="$PROJECT_DIR$/Excercise_41/Excercise_41.py" />
       </list>
     </option>
   </component>
@@ -142,7 +169,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Excercise_39" />
+              <option name="myItemId" value="Excercise_41" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn_Python_The_Hard_Way_Excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Excercise_40" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,43 +208,7 @@
       <recent name="$PROJECT_DIR$/Excercise_20" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Excercise_39_Extension">
-    <configuration default="false" name="Excercise_37" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercise_37" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Learn_Python_The_Hard_Way_Excercises" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise_37/Excercise_37.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Assertion_Testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Learn_Python_The_Hard_Way_Excercises" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assertion_Testing.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Excercise_41">
     <configuration default="false" name="Excercise_38" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,6 +258,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Learn_Python_The_Hard_Way_Excercises" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise_39/Excercise_39_Extension.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Excercise_40" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercise_40" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn_Python_The_Hard_Way_Excercises" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise_40/Excercise_40.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Excercise_41" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excercise_41" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn_Python_The_Hard_Way_Excercises" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excercise_41/Excercise_41.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -399,19 +440,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Excercise10" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Excercise_37" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Assertion_Testing" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Excercise_38" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Excercise_39" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Excercise_39_Extension" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Excercise_38" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Excercise_39" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Excercise_39_Extension" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Excercise_40" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Excercise_41" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Excercise_39_Extension" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Excercise_39" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Excercise_38" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Assertion_Testing" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Excercise_37" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Excercise_41" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Excercise_40" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Excercise_39_Extension" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Excercise_39" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Excercise_38" />
       </list>
     </recent_temporary>
   </component>
@@ -443,17 +484,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2652899" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30821916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30547947" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -481,18 +522,58 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Excercise_30/Excercise_30.py">
+    <entry file="file://$PROJECT_DIR$/Excercise_40/Excercise_40.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="300">
+        <state line="0" column="0" selection-start="0" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="975">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Excercise_32/Excercise_32.py">
+    <entry file="file://$PROJECT_DIR$/Excercise_40/CarInformation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="285">
+        <state line="19" column="0" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_41/Excercise_41.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="20" selection-start="2106" selection-end="2106" vertical-scroll-proportion="0.0" vertical-offset="666" max-vertical-offset="1425">
+          <folding>
+            <element signature="e#164#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_41/Excercise_41Ext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_40/Excercise_40.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="37" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_40/CarInformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_30/Excercise_30.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="5" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_32/Excercise_32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_24/Excercise24.py">
@@ -502,9 +583,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_26/Excercise26.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="36" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1560">
-          <folding />
-        </state>
+        <state line="79" column="36" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1560" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise10.py">
@@ -579,106 +658,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_33/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
-          <folding />
-        </state>
+        <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_26/Excercise26.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="30" selection-start="1998" selection-end="1998" vertical-scroll-proportion="2.5324676" vertical-offset="0" max-vertical-offset="1560">
-          <folding />
-        </state>
+        <state line="78" column="30" selection-start="1998" selection-end="1998" vertical-scroll-proportion="2.5324676" vertical-offset="0" max-vertical-offset="1560" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_30/Excercise_30.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_32/Excercise_32.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="-0.27272728" vertical-offset="0" max-vertical-offset="1110">
-          <folding />
-        </state>
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="-0.27272728" vertical-offset="0" max-vertical-offset="1110" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_33/Excercise_33.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.032467533" vertical-offset="0" max-vertical-offset="462">
-          <folding />
-        </state>
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.032467533" vertical-offset="0" max-vertical-offset="462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_29/Excercise_29.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.032467533" vertical-offset="0" max-vertical-offset="600">
-          <folding />
-        </state>
+        <state line="1" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.032467533" vertical-offset="0" max-vertical-offset="600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_34/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_35/Excercise_35.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1095">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1095" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_34/Excercise_34.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_36/Excercise_36.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2670">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2670" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_37/Excercise_37.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1635">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1635" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_38/Excercise_38.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_39/Excercise_39.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Excercise_39/Excercise_39_Extension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="63" selection-start="702" selection-end="702" vertical-scroll-proportion="0.92665035" vertical-offset="71" max-vertical-offset="540">
+        <state line="4" column="41" selection-start="209" selection-end="209" vertical-scroll-proportion="0.14669926" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_40/Excercise_40.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_40/CarInformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_41/Excercise_41Ext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="17" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excercise_41/Excercise_41.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="53" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.7877358" vertical-offset="611" max-vertical-offset="1035">
+          <folding>
+            <element signature="e#164#186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
